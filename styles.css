@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #393632;
+}
+
+.container {
+    text-align: center;
+}
+
+#clickable-image {
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+}
